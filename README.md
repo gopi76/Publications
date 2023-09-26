@@ -3,7 +3,7 @@
 - <a href="https://www.ijaent.org/portfolio-item/G04740710723/" target="_blank">Generative AI</a>
 - <a href="https://www.ijaent.org/portfolio-item/E41190612523/" target="_blank">Multilingual NLP</a>
 - <a href="https://www.ijaent.org/portfolio-item/I04750910923/" target="_blank">Cloud Metering and Monitoring</a>
-- <a href="https://www.ijaent.org/portfolio-item/J047610101023/" target="_blank">Reinforcement Learning Based NLP</a>
+- <a href="https://www.ijsce.org/portfolio-item/J047610101023/" target="_blank">Reinforcement Learning Based NLP</a>
 
 # How to publish the term/research paper for free in reputated journals 
 - First write a term paper ( steps : Title, Research, Read on books, Understand, write content)
