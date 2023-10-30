@@ -6,6 +6,7 @@
 * [Multilingual NLP](https://www.ijaent.org/portfolio-item/E41190612523/)
 * [Cloud Metering and Monitoring](https://www.ijaent.org/portfolio-item/I04750910923/)
 * [Reinforcement Learning Based NLP](https://www.ijsce.org/portfolio-item/J047610101023/)
+* [Shape Reconstruction in Computer Vision](https://www.ijsce.org/portfolio-item/E36181113523/)
 
 # How to publish the term/research paper for free in reputated journals
 
